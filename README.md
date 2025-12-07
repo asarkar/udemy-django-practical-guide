@@ -7,6 +7,7 @@ This repository contains practice code based on the Udemy course [Python Django 
 1. Getting Started
 2. Course Setup
 3. URLs & Views
+4. Templates & Static Files
 
 ## Development
 

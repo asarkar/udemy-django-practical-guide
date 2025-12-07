@@ -1,5 +1,5 @@
 """
-WSGI config for monthly_challenges project.
+WSGI config for section04 project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "monthly_challenges.settings")
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "section04.settings")
 
 application = get_wsgi_application()
