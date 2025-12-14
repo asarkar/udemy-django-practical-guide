@@ -8,6 +8,10 @@ This repository contains practice code based on the Udemy course [Python Django 
 2. Course Setup
 3. URLs & Views
 4. Templates & Static Files
+5. Course Project: Building a Blog - The Basics
+6. Data & Models
+7. Admin
+8. Relationships
 
 ## Development
 
